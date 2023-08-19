@@ -4,3 +4,4 @@ The Kaggle challenge I did is Classify an email into eight classes based on the 
 ```
 https://www.kaggle.com/competitions/centralesupelec-summer-school-on-ai-2022/overview
 ```
+`Email.ipynb` is my script to predict the result. The model I used is decision tree. 
